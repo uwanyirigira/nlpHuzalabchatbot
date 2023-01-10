@@ -1,1 +1,3 @@
 fastapi[All]
+uvicorn
+
